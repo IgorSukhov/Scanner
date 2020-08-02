@@ -1,0 +1,9 @@
+c:\Dev\Git\ScannerV1\bin\Release\ScannerV1.exe.config
+c:\Dev\Git\ScannerV1\bin\Release\ScannerV1.exe
+c:\Dev\Git\ScannerV1\bin\Release\ScannerV1.pdb
+c:\Dev\Git\ScannerV1\obj\Release\ScannerV1.Form1.resources
+c:\Dev\Git\ScannerV1\obj\Release\ScannerV1.Properties.Resources.resources
+c:\Dev\Git\ScannerV1\obj\Release\ScannerV1.csproj.GenerateResource.cache
+c:\Dev\Git\ScannerV1\obj\Release\ScannerV1.csproj.CoreCompileInputs.cache
+c:\Dev\Git\ScannerV1\obj\Release\ScannerV1.exe
+c:\Dev\Git\ScannerV1\obj\Release\ScannerV1.pdb
